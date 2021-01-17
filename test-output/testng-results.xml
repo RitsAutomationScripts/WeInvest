@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ALL WEATHER STRATEGY" duration-ms="98678" started-at="2021-01-17T05:30:25Z" finished-at="2021-01-17T05:32:04Z">
+    <groups>
+    </groups>
+    <test name="ALL WEATHER STRATEGY Test Cases" duration-ms="98678" started-at="2021-01-17T05:30:25Z" finished-at="2021-01-17T05:32:04Z">
+      <class name="herouapp.weinvest.qa.testcases.AllWeatherStategyTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:herouapp.weinvest.qa.testcases.AllWeatherStategyTest@475530b9]" name="setUp" is-config="true" duration-ms="15443" started-at="2021-01-17T11:00:25Z" finished-at="2021-01-17T11:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_A()[pri:1, instance:herouapp.weinvest.qa.testcases.AllWeatherStategyTest@475530b9]" name="Test_A" duration-ms="36235" started-at="2021-01-17T11:00:41Z" finished-at="2021-01-17T11:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_A -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:herouapp.weinvest.qa.testcases.AllWeatherStategyTest@475530b9]" name="tearDown" is-config="true" duration-ms="700" started-at="2021-01-17T11:01:17Z" finished-at="2021-01-17T11:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:herouapp.weinvest.qa.testcases.AllWeatherStategyTest@475530b9]" name="setUp" is-config="true" duration-ms="13152" started-at="2021-01-17T11:01:18Z" finished-at="2021-01-17T11:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_B()[pri:2, instance:herouapp.weinvest.qa.testcases.AllWeatherStategyTest@475530b9]" name="Test_B" duration-ms="32414" started-at="2021-01-17T11:01:31Z" finished-at="2021-01-17T11:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_B -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:herouapp.weinvest.qa.testcases.AllWeatherStategyTest@475530b9]" name="tearDown" is-config="true" duration-ms="709" started-at="2021-01-17T11:02:03Z" finished-at="2021-01-17T11:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- herouapp.weinvest.qa.testcases.AllWeatherStategyTest -->
+    </test> <!-- ALL WEATHER STRATEGY Test Cases -->
+  </suite> <!-- ALL WEATHER STRATEGY -->
+</testng-results>

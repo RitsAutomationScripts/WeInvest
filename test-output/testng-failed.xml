@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ALL WEATHER STRATEGY]">
+  <test name="ALL WEATHER STRATEGY Test Cases(failed)">
+    <classes>
+      <class name="herouapp.weinvest.qa.testcases.AllWeatherStategyTest">
+        <methods>
+          <include name="Test_B"/>
+          <include name="setUp"/>
+          <include name="Test_A"/>
+        </methods>
+      </class> <!-- herouapp.weinvest.qa.testcases.AllWeatherStategyTest -->
+    </classes>
+  </test> <!-- ALL WEATHER STRATEGY Test Cases(failed) -->
+</suite> <!-- Failed suite [ALL WEATHER STRATEGY] -->
